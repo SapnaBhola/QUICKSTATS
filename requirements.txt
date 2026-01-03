@@ -1,0 +1,9 @@
+pandas → data loading, cleaning, QuickStats generation
+
+numpy → numerical calculations
+
+matplotlib → ARIMA graph plotting
+
+reportlab → PDF report generation (tables, graphs, text)
+
+pmdarima → Auto-ARIMA forecasting
